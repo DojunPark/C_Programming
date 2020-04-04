@@ -28,59 +28,59 @@ This is a compilation of C Programming exercises.
 - 15_Pow.c
 - 16_if abs.c
 - 17_Credit.c
-- 18_윤년 판독 프로그램.c
-- 19_1부터 1000까지의 합.c
-- 20_사각형 출력하기.c
-- 21_피라미드 출력하기.c
+- 18_leap year reading program.c
+- 19_Sum from 1 to 1000.c
+- 20_print rectangle.c
+- 21_Pyramid printing.c
 
 ## Exercise 6: Input & Output
-- 22_1_계산기 연습.c
-- 22_간단한 계산기 프로그램.c
-- 23_정해진 갯수의 정수를 더하는 프로그램.c
-- 24_특정한 단의 구구단을 출력하는 프로그램.c
+- 22_1_Calculator practice.c
+- 22_simple calculator program.c
+- 23_Program to add a fixed number of integers.c
+- 24_A program that outputs a multiplication table of a specific stage.c
 
 ## Exercise 7: User-defined Function
-- 25_시간 더하기 프로그램.c
-- 26_최소 화폐 개수 반환 프로그램.c
-- 27_1월1일부터 날 수 구하기.c
+- 25_hour plus program.c
+- 26_Minimum number of money return program.c
+- 27_Find the number of days from January 1st.c
 
 ## Exercise 8: Iterative Function & Recursive Function
-- 28_반복함수로 숫자 피라미드 출력하기.c
-- 29_재귀함수로 숫자 피라미드 출력하기.c
-- 30_재귀함수로 조합 구현하기.c
+- 28_printing the number pyramid with a repeat function.c
+- 29_Printing the number pyramid with a recursive function.c
+- 30_Implementing a combination with recursive functions.c
 
 ## Exercise 9: Array
-- 31_다섯가지 정수에서 최대값과 최소값의 위치를 알려주는 프로그램.c
-- 32_5개의 정수 중에서 짝수 최대값과 홀수 최대값을 구하는 프로그램.c
-- 33_구구단을 이용하여 이차원 배열 출력하기.c
-- 34_학생 점수의 총합.c
+- 31_Program that informs the location of the maximum and minimum values in five integers.c
+- 32_Program to find even maximum and odd maximum among 5 integers.c
+- 33_Printing a two-dimensional array using multiplication table. C
+- 34_Sum of student scores.c
 
 ## Exercise 10: Pointer
-- 35_두 변수의 값을 서로 변환하기.c
-- 36_포인터 변수의 값을 바꿔보기.c
+-35_Converting two variable values to each other.c
+-36_Changing the value of the pointer variable.c
 
 ## Exercise 11: String
-- 37_하나의 문자열 안의 글자수 세기.c
+- 37_counting the number of characters in a string.c
 - 38_strlen().c
 - 39_strcmp().c
 - 40_strcpy().c
 
 ## Exercise 12: Sturcture
-- 41_학생 정보 구조체.c
-- 42_학생 정보 구조체 활용.c
-- 43_두 점 사이의 거리.c
-- 44_사각형의 넓이와 둘레를 구하는 프로그램.c
-- 45_구조체의 비교.c
-- 46_구조체의 배열.c
+- 41_Student information structure.c
+- 42_Utilization of student information structure.c
+- 43_distance between two points.c
+- 44_program to find the area and perimeter of a square.c
+- 45_Comparison of structures.c
+- 46_arrangement of structures.c
 
 ## Exercise 13: Read & Write
-- 47_파일 입출력.c
-- 48_텍스트 파일 읽기.c
-- 49_텍스트 파일 분석.c
+- 47_File I / O.c
+- 48_reading text file.c
+- 49_text file analysis.c
 
 ## Exercise 14: Dynamic Memory
-- 50_동적 메모리 기초 예제.c
-- 51_동적메모리로 알파벳 출력하기.c
-- 52_동적메모리로 정수 5개를 처리하기.c
-- 53_구조체 동적메모리 할당.c
-- 54_동적메모리 2차원 배열.c
+- 50_ Dynamic memory basic example.c
+- 51_Printing the alphabet in dynamic memory.c
+- 52_Processing 5 integers with dynamic memory.c
+- 53_structure dynamic memory allocation.c
+- 54_Dynamic memory two-dimensional array.c
